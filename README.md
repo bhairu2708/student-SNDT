@@ -1,3 +1,6 @@
 # student-SNDT
 This is my first Git Repository
-Author- BHAGYASHREE RAJPUT
+<br>
+Author:-
+<br>
+BHAGYASHREE RAJPUT
