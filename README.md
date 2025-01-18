@@ -1,5 +1,5 @@
 # student-SNDT
-This is my first Git Repository
+THIS IS MY FIRST GIT REPOSITORY
 <br>
-AUTHOR-
-BHAGYASHREE RAJPUT
+Author-
+Bhagyashree rajput
